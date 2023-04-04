@@ -48,7 +48,7 @@ img {
 .modal-top {
   padding: 24px 33px;
   margin-bottom: 44px;
-  background: #F8FAFD;
+  background: #f8fafd;
 }
 
 .modal-center {
@@ -63,10 +63,10 @@ img {
 .modal-desc {
   margin: 0;
   margin-top: 50px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-size: 13px;
   line-height: 170.3%;
-  color: #58667E;
+  color: #58667e;
 }
 
 .modal-list {
@@ -82,7 +82,7 @@ img {
 
 .modal-list-heading {
   margin: 0;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-size: 14px;
   line-height: 17px;
   color: #222531;
@@ -94,15 +94,15 @@ img {
   margin-left: 10px;
   background: rgba(13, 117, 255, 0.09);
   border-radius: 30px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-size: 14px;
   line-height: 17px;
-  color: #0D75FF;
+  color: #0d75ff;
 }
 
 .modal-btn-wrapper {
   padding: 24px 33px;
-  background: #F8FAFD;
+  background: #f8fafd;
   box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -111,13 +111,13 @@ img {
   padding: 9px 38px;
   max-width: 112px;
   margin-left: auto;
-  background: #75828A;
+  background: #75828a;
   border-radius: 4px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-weight: 500;
   font-size: 14px;
   line-height: 17px;
-  color: #FFFFFF;
+  color: #ffffff;
   transition: all 0.4s;
 }
 
@@ -140,7 +140,6 @@ img {
   z-index: 5;
 }
 
-
 .hero-bookmark-list {
   margin: 0;
   padding: 0;
@@ -149,7 +148,7 @@ img {
 .hero-bookmark-item {
   max-width: 218px;
   padding: 15px 10px;
-  background: #F8FAFD;
+  background: #f8fafd;
   border-radius: 4px;
 }
 
@@ -161,7 +160,7 @@ img {
   max-width: 143px;
   margin: 0;
   margin-bottom: 5px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-size: 16px;
   line-height: 19px;
   color: #000000;
@@ -170,7 +169,7 @@ img {
 .hero-bookmark-desc {
   max-width: 143px;
   margin: 0;
-  font-family: 'Noto Sans';
+  font-family: "Noto Sans";
   font-weight: 500;
   font-size: 13px;
   line-height: 18px;
@@ -218,7 +217,6 @@ img {
   opacity: 0.4;
 }
 
-
 .header {
   position: fixed;
   top: 0;
@@ -253,7 +251,7 @@ img {
   padding-left: 48px;
   max-width: 670px;
   width: 100%;
-  background: #F8FAFD;
+  background: #f8fafd;
   box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
   border: 2px solid transparent;
   border-radius: 30px;
@@ -264,7 +262,7 @@ img {
 }
 
 .header-input::placeholder {
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-size: 13px;
   line-height: 15px;
   color: rgba(0, 0, 0, 0.24);
@@ -279,12 +277,12 @@ img {
   padding: 10px 23px;
   max-width: 99px;
   width: 100%;
-  background: #0D75FF;
+  background: #0d75ff;
   border-radius: 4px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-size: 16px;
   line-height: 19px;
-  color: #FFFFFF;
+  color: #ffffff;
   border: transparent;
   transition: all 0.4s;
 }
@@ -300,7 +298,7 @@ img {
 .line {
   width: 100%;
   height: 1px;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.15);
 }
 
@@ -314,7 +312,7 @@ img {
 
 .header-bottom-desc {
   margin: 0;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -324,14 +322,14 @@ img {
 
 .header-bottom-btn {
   padding: 9px 13px 9px 42px;
-  background: #A6B0C3;
+  background: #a6b0c3;
   border: transparent;
   border-radius: 4px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-weight: 500;
   font-size: 14px;
   line-height: 17px;
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: center;
   background-image: url(../images/sort.png);
   background-repeat: no-repeat;
@@ -360,7 +358,7 @@ img {
 .hero-left-heading {
   margin: 0;
   margin-bottom: 5px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-size: 24px;
   line-height: 28px;
   color: #000000;
@@ -370,7 +368,7 @@ img {
   max-width: 218px;
   margin: 0;
   margin-bottom: 25px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-size: 14px;
   line-height: 155.6%;
   color: #000000;
@@ -379,7 +377,7 @@ img {
 .hero-right {
   padding-top: 40px;
   padding-bottom: 40px;
-  background: #F8FAFD;
+  background: #f8fafd;
 }
 
 .hero-right-list {
@@ -396,7 +394,7 @@ img {
   max-width: 282px;
   padding: 18px 15px 13px 18px;
   background-color: red;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
 }
@@ -405,11 +403,11 @@ img {
   margin-top: 33px;
 }
 
-.hero-right-item:nth-child(2){
+.hero-right-item:nth-child(2) {
   margin-top: 0;
 }
 
-.hero-right-item:nth-child(3){
+.hero-right-item:nth-child(3) {
   margin-top: 0;
 }
 
@@ -420,7 +418,7 @@ img {
 .hero-right-list-heading {
   margin: 0;
   margin-bottom: 2px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
@@ -430,7 +428,7 @@ img {
 
 .hero-right-list-desc {
   margin: 0;
-  font-family: 'Noto Sans';
+  font-family: "Noto Sans";
   font-weight: 500;
   font-size: 13px;
   line-height: 18px;
@@ -440,7 +438,7 @@ img {
 .hero-right-list-desc-year {
   margin: 0;
   margin-bottom: 10px;
-  font-family: 'Noto Sans';
+  font-family: "Noto Sans";
   font-weight: 500;
   font-size: 13px;
   line-height: 18px;
@@ -450,9 +448,9 @@ img {
 .hero-right-list-bookmark {
   max-width: 120px;
   padding: 10px 25px;
-  background: #FFD80D;
+  background: #ffd80d;
   border-radius: 4px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-weight: 500;
   font-size: 14px;
   line-height: 17px;
@@ -473,12 +471,12 @@ img {
   padding: 10px 25px;
   background: rgba(13, 117, 255, 0.05);
   border-radius: 4px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 17px;
-  color: #0D75FF;
+  color: #0d75ff;
   transition: all 0.4s;
 }
 
@@ -495,13 +493,13 @@ img {
   margin-top: 5px;
   padding: 10px 105px;
   max-width: 246px;
-  background: #75828A;
+  background: #75828a;
   border-radius: 4px;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-weight: 500;
   font-size: 14px;
   line-height: 17px;
-  color: #FFFFFF;
+  color: #ffffff;
   transition: all 0.4s;
 }
 
@@ -521,18 +519,18 @@ img {
 
 #prevBtn {
   font-weight: 600;
-  background: #FFFFFF;
-  border: 1px solid #DFE3E8;
+  background: #ffffff;
+  border: 1px solid #dfe3e8;
   border-radius: 4px;
-  color: #C4CDD5;
+  color: #c4cdd5;
 }
 
 #nextBtn {
   font-weight: 600;
-  background: #FFFFFF;
-  border: 1px solid #DFE3E8;
+  background: #ffffff;
+  border: 1px solid #dfe3e8;
   border-radius: 4px;
-  color: #C4CDD5;
+  color: #c4cdd5;
 }
 
 .pagination {
@@ -550,8 +548,10 @@ img {
 }
 
 .page-link:active {
-  border: 1px solid #0D75FF;
+  border: 1px solid #0d75ff;
   border-radius: 4px;
   background-color: #000000;
   color: #fff;
 }
+
+
