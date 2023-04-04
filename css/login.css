@@ -1,0 +1,167 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+img {
+  display: inline-block;
+}
+
+.paraol {
+  text-align: center;
+  background-color: #fff;
+  width: 500px;
+  height: 100px;
+  padding-top: 20px;
+  margin: 0 auto;
+  border-radius: 12px;
+  margin-top: 50px;
+}
+
+.login-page {
+  background-image: url(../images/login-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.login-page-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.opacity {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  color: rgb(255, 0, 0);
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+  font-weight: 600;
+  opacity: 0;
+  transition: all 0.1s;
+}
+
+.login-logo-link {
+  display: inherit;
+  text-align: center;
+}
+
+.login-logo-link > img {
+  margin-bottom: 50px;
+}
+
+.login-page-username-input {
+  padding: 13px 165px 12px 50px;
+  max-width: 300px;
+  width: 100%;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  background: transparent;
+  background-image: url(../images/username.png);
+  background-repeat: no-repeat;
+  background-position: left 12px center;
+  color: #ffffff;
+}
+
+.login-page-username-input::placeholder {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.login-page-username-input:focus {
+  outline: none;
+  background: transparent;
+  border: 1px solid #ffffff;
+  background-image: url(../images/username.png);
+  background-repeat: no-repeat;
+  background-position: left 12px center;
+  color: #ffffff;
+}
+
+.login-page-password-input {
+  padding: 13px 163px 12px 50px;
+  max-width: 300px;
+  width: 100%;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  background: transparent;
+  background-image: url(../images/password.png);
+  background-repeat: no-repeat;
+  background-position: left 12px center;
+  color: #ffffff;
+}
+
+.login-page-password-input::placeholder {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.login-page-password-input:focus {
+  outline: none;
+  background: transparent;
+  border: 1px solid #ffffff;
+  background-image: url(../images/password.png);
+  background-repeat: no-repeat;
+  background-position: left 12px center;
+  color: #ffffff;
+}
+
+.login-submit {
+  max-width: 300px;
+  margin-top: 43px;
+  width: 100%;
+  padding: 13px 123px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  border: transparent;
+  text-align: center;
+  text-transform: uppercase;
+  color: #0d75ff;
+}
+
+.login-page-btn:hover {
+  opacity: 0.6;
+}
+
+.login-page-btn:active {
+  opacity: 0.4;
+}
+
+.forget-password {
+  margin: 0;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: auto;
+  max-width: 146px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+}
